@@ -1,0 +1,24 @@
+Further reading & WordPress multisite plugin links
+Further reading 
+
+httpscodex.wordpress.orgCreate_A_Network 
+
+httpscodex.wordpress.orgMultisite_Network_Administration
+
+
+
+Useful multisite plugins
+
+httpspremium.wpmudev.orgblog25-essential-plugins-for- wordpress-multisite-networks
+
+httpwinningwp.combest-plugins-for-wordpress-multisite
+
+httpswww.designwall.comblog10-wordpress-multisite-plugins- you-shouldnt-live-without
+
+httpswww.elegantthemes.comblogresourcesthe-best- wordpress-multisite-plugins
+
+
+
+Localhost workaround guide
+
+httpwpdreamer.com201308how-to-setup-a-localhost-wordpress- sub-domain-multisite-environment 
